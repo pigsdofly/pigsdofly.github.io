@@ -37,39 +37,39 @@ a {
 }
 
 #box0 {
-	background-image:url("4chan.png");
+	background-image:url("assets/4chan.png");
 }
 
 #box1 {
-	background-image:url("mal.png");
+	background-image:url("assets/mal.png");
 }
 
 #box2 {
-	background-image:url("youtube.png");
+	background-image:url("assets/youtube.png");
 }
 
 #box3 {
-	background-image:url("fb.png");
+	background-image:url("assets/fb.png");
 }
 
 #box4 {
-	background-image:url("chen.png");
+	background-image:url("assets/chen.png");
 }
 
 #box5 {
-	background-image:url("twitch.png");
+	background-image:url("assets/twitch.png");
 }
 
 #box6 {
-	background-image:url("twitter.png");
+	background-image:url("assets/twitter.png");
 }
 
 #box7 {
-	background-image:url("uni.png");
+	background-image:url("asstes/uni.png");
 }
 
 #box8 {
-	background-image:url("netvibes.png");
+	background-image:url("assets/netvibes.png");
 }
 
 .box:hover {
