@@ -1,0 +1,85 @@
+body {
+	background-image:url('background.png');
+	font-family:Helvetica,sans-serif;
+}
+.box {
+	position:relative;
+	background:#fff;
+	background-size:contain;
+	width:200px;
+	height:200px;
+	border:0;
+	text-decoration:none;
+	text-align:center;
+	border-radius:1em;
+}
+
+#table {
+	position:relative;
+	margin-left:auto;
+	margin-right:auto;
+	border-spacing:10px;
+}
+
+.toprow {
+	margin-top:70px;
+}
+
+.midrow {
+	margin-top:20px;
+}
+
+.botrow {
+	margin-top:20px;
+}
+a {
+	text-decoration:none;
+}
+
+#box0 {
+	background-image:url("4chan.png");
+}
+
+#box1 {
+	background-image:url("mal.png");
+}
+
+#box2 {
+	background-image:url("youtube.png");
+}
+
+#box3 {
+	background-image:url("fb.png");
+}
+
+#box4 {
+	background-image:url("chen.png");
+}
+
+#box5 {
+	background-image:url("twitch.png");
+}
+
+#box6 {
+	background-image:url("twitter.png");
+}
+
+#box7 {
+	background-image:url("uni.png");
+}
+
+#box8 {
+	background-image:url("netvibes.png");
+}
+
+.box:hover {
+	background:#168847;
+	background-size:contain;
+}
+
+@media(max-width: 600px) {
+	.box {
+		width:100px;
+		height:100px;
+	}
+}
