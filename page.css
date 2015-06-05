@@ -46,9 +46,10 @@ div {
 }
 
 #table {
+	top:50%;
+	transform: translateY(-50%);
 	position:relative;
 	margin:auto;
-	padding-top:2%;
 	border-spacing:10px;
 }
 
