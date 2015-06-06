@@ -9,7 +9,7 @@ window.onresize = function(event) {
 window.onscroll = function(event) {
     $('#content').css({'transform':'translateY(-100%)','transition':'transform 200ms ease-in'});
     setTimeout(function() {
-    	$('#content').css('height':100%);
+    	$('#content').css({'height':100%});
     },200);
 
 }
