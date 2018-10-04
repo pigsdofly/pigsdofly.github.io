@@ -24,9 +24,11 @@ div {
 
 #content {
 	position:relative;
-	background:#2C2C2C;
+	background-image:url('assets/header3.png');
+	background-position:right top;
+	background-size:cover;
 	top:1000px;
-    	transform: translateY(0%);
+    transform: translateY(0%);
 	right:0;
 	bottom:-100%;
 	left:0;
